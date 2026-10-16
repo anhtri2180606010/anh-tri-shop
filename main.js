@@ -3,37 +3,37 @@
 const products = [
     {
         id: 1,
-        name: "Ốp lưng điện thoại",
+        name: "Công chúa và quái vật",
         price: 79000,
-        image: "https://placehold.co/600x400/FFF1F5/AD315D?text=Phone+Case"
+        image: "images/9ed99dea-79d6-4ab7-b3a3-4afa4dd3969c.jpg"
     },
     {
         id: 2,
-        name: "Tai nghe không dây",
+        name: "Bạch tuyết và ông kẹ",
         price: 299000,
-        image: "https://placehold.co/600x400/FFF1F5/AD315D?text=Earbuds"
+        image: "images/b05dcc2c-919b-4c63-8adf-78e69044a367.jpg"
     },
     {
         id: 3,
-        name: "Giá đỡ điện thoại",
+        name: "",
         price: 59000,
         image: "https://placehold.co/600x400/FFF1F5/AD315D?text=Phone+Stand"
     },
     {
         id: 4,
-        name: "Sạc điện thoại",
+        name: "",
         price: 159000,
         image: "https://placehold.co/600x400/FFF1F5/AD315D?text=Charger"
     },
     {
         id: 5,
-        name: "Túi đựng phụ kiện",
+        name: "",
         price: 99000,
         image: "https://placehold.co/600x400/FFF1F5/AD315D?text=Accessory+Bag"
     },
     {
         id: 6,
-        name: "Móc khóa dễ thương",
+        name: "",
         price: 35000,
         image: "https://placehold.co/600x400/FFF1F5/AD315D?text=Keychain"
     }
